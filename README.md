@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate iOS Dev.(Still Learning) from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanwithcode&label=Profile%20views&color=0e75b6&style=flat" alt="furkanwithcode" /> </p>
-
-<p align="left"> <a href="https://twitter.com/furkanwithcode" target="blank"><img src="https://img.shields.io/twitter/follow/furkanwithcode?logo=twitter&style=for-the-badge" alt="furkanwithcode" /></a> </p>
-
 - 🌱 I’m currently learning **SwiftUI, UIKit**
 
 - 💬 Ask me about **anything**
@@ -22,3 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanwithcode&show_icons=true&locale=en" alt="furkanwithcode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanwithcode&" alt="furkanwithcode" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanwithcode&label=Profile%20views&color=0e75b6&style=flat" alt="furkanwithcode" /> </p>
+
+<p align="left"> <a href="https://twitter.com/furkanwithcode" target="blank"><img src="https://img.shields.io/twitter/follow/furkanwithcode?logo=twitter&style=for-the-badge" alt="furkanwithcode" /></a> </p>
