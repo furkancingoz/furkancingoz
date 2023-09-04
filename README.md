@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate iOS Dev.(Still Learning) from Turkey</h3>
-<h3 align="center">A passionate iOS Dev.(Still Learning)</h3>
 
 - 🌱 I’m currently learning **SwiftUI, UIKit**
 
