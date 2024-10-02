@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Javascrip,NodeJS,React Native,SwiftUI, UIKit**
 
 
-- 📫 How to reach me **https://twitter.com/furkancJS*
+- 📫 How to reach me **https://twitter.com/furkancjs*
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkancingoz&show_icons=true&locale=en&layout=compact" alt="furkancingoz" /></p>
