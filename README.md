@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 
 
-- 🌱 I’m currently learning **Javascrip,NodeJS,React Native,SwiftUI, UIKit**
+- 🌱 I’m currently learning **JS,NodeJS,ReactNative,SwiftUI, UIKit**
 
 
 - 📫 How to reach me **https://twitter.com/furkancjs*
